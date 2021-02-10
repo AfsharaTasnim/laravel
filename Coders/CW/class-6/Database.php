@@ -1,4 +1,4 @@
-<?php
+v<?php
 class Database
 {
 	public $connection;
